@@ -1,4 +1,4 @@
-#Linguagem e Técnicas de Programçao
+# Linguagem e Técnicas de Programçao
 Uma parte dos códigos feitos em sala estão no diretório (pasta) exercícios acima.
 
 A seguir, você tem acesso aos slides que forma usados em sala.
