@@ -8,7 +8,7 @@ A seguir, você tem acesso aos slides que forma usados em sala.
 
 [Semana 02](https://docs.google.com/presentation/d/1ixK4OuMlBa2W1mtpbQXy25Cuy0B6OJF3KMdWgl7X9n8/edit?usp=sharing)
 
-[Semana 02(Em breve)]()
+[Semana 03(Em breve)]()
 
 [Fim da Jornada (Em breve)]()
 
