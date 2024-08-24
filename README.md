@@ -10,7 +10,9 @@ A seguir, você tem acesso aos slides que forma usados em sala.
 
 [Semana 03](https://docs.google.com/presentation/d/1l8ml6UFX2KS6f7SiWdPZ2pr3aeuKDWxA6OufGL5sSkQ/edit?usp=sharing)
 
-[Fim da Jornada (Em breve)]()
+[Semana 04](https://docs.google.com/presentation/d/1k_fTuWz90a-Ud8ROnHNHCSKcxp_qhYdacoE7EK1OBB8/edit?usp=sharing)
+
+[Fim da Jornada ...Aguarde...]()
 
 ## Estudando no Youtube
 [5 horas e 48 min de aprendizagem](https://www.youtube.com/watch?v=ssJY5MDLjlo)
