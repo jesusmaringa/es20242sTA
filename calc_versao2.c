@@ -17,9 +17,9 @@ int main(){
 }
 int resolve(char op, double v1, double v2){
     if(op == '+') printf("%.2lf + %.2lf = %.2lf",v1,v2,soma(v1,v2));
-    else if(op == '-') printf("%.2lf + %.2lf = %.2lf",v1,v2,sub(v1,v2));
-    else if(op == '/') printf("%.2lf + %.2lf = %.2lf",v1,v2,div(v1,v2));
-	else if(op == '*') printf("%.2lf + %.2lf = %.2lf",v1,v2,mult(v1,v2));
+    else if(op == '-') printf("%.2lf - %.2lf = %.2lf",v1,v2,sub(v1,v2));
+    else if(op == '/') printf("%.2lf / %.2lf = %.2lf",v1,v2,div(v1,v2));
+	else if(op == '*') printf("%.2lf * %.2lf = %.2lf",v1,v2,mult(v1,v2));
 	else if(op == 'm') printf("(%.2lf + %.2lf)/2 = %.2lf",v1,v2,media(v1,v2));
 	else if(op == 'p') printf("(%.2lf * %.2lf)/100 = %.2lf",v1,v2,porcentagem(v1,v2));
 }

@@ -34,9 +34,9 @@ do{
 		printf("Digite o segundo número: ");
 		scanf("%lf",&valor2);
 		if(op == '+') printf("%.2lf + %.2lf = %.2lf",valor1,valor2,soma(valor1,valor2));
-		else if(op == '-') printf("%.2lf + %.2lf = %.2lf",valor1,valor2,sub(valor1,valor2));
-		else if(op == '/') printf("%.2lf + %.2lf = %.2lf",valor1,valor2,div(valor1,valor2));
-		else if(op == '*') printf("%.2lf + %.2lf = %.2lf",valor1,valor2,mult(valor1,valor2));
+		else if(op == '-') printf("%.2lf - %.2lf = %.2lf",valor1,valor2,sub(valor1,valor2));
+		else if(op == '/') printf("%.2lf / %.2lf = %.2lf",valor1,valor2,div(valor1,valor2));
+		else if(op == '*') printf("%.2lf * %.2lf = %.2lf",valor1,valor2,mult(valor1,valor2));
 		else if(op == 'm') printf("(%.2lf + %.2lf)/2 = %.2lf",valor1,valor2,media(valor1,valor2));
 		else if(op == 'p') printf("(%.2lf * %.2lf)/100 = %.2lf",valor1,valor2,porcentagem(valor1,valor2));
 		else printf("operação %c invalida!",op);
