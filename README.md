@@ -26,7 +26,7 @@ A seguir, você tem acesso aos slides que forma usados em sala.
 [C Total](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)
 
 ## Notas de Aula
-[Notas de aula UFPR] (https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf)
+[Notas de aula UFPR](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf)
 
 ## Estudando no Youtube
 [5 horas e 48 min de aprendizagem](https://www.youtube.com/watch?v=ssJY5MDLjlo)
