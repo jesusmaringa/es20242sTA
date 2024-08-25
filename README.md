@@ -1,6 +1,14 @@
 # Linguagem e Técnicas de Programção
 Uma parte dos códigos feitos em sala estão no diretório (pasta) exercícios acima.
 
+
+## Se você usa Windows.
+[VSCode + c Programming.](https://www.youtube.com/watch?v=Mook-z2uvpM)
+
+## Compilando com gcc usando linha de comando.
+gcc -o <nome_programa> <nome_programa_fonte.c>
+Ex.: gcc -o alo alomundo.c
+
 A seguir, você tem acesso aos slides que forma usados em sala.
 
 ## Slides
