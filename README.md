@@ -3,7 +3,7 @@ Uma parte dos códigos feitos em sala estão no diretório (pasta) exercícios a
 
 
 ## Se você usa Windows.
-[VSCode + c Programming.](https://www.youtube.com/watch?v=Mook-z2uvpM)
+[VSCode + c Programming.](https://www.youtube.com/watch?v=3pfRvy_gfqY)
 
 ## Compilando com gcc usando linha de comando.
 gcc -o <nome_programa> <nome_programa_fonte.c>
