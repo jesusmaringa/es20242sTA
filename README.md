@@ -30,5 +30,6 @@ A seguir, você tem acesso aos slides que forma usados em sala.
 
 ## Estudando no Youtube
 [5 horas e 48 min de aprendizagem](https://www.youtube.com/watch?v=ssJY5MDLjlo)
+
 [Linguagem C - Pietro Martins De Oliveira](https://www.youtube.com/watch?v=2w8GYzBjNj8&list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2)
 
