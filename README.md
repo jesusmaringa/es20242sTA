@@ -1,7 +1,8 @@
 # Linguagem e Técnicas de Programção
 Uma parte dos códigos feitos em sala estão no diretório (pasta) exercícios acima.
 
-## Caso queiram meu whatsapp para contato, mamdem email para vander.vander at gmail dot com
+## Contado do whatsapp
+Envie um email para vander.vander[at]gmail[dot]com
 
 ## Se você usa Windows.
 [VSCode + c Programming.](https://www.youtube.com/watch?v=3pfRvy_gfqY)
