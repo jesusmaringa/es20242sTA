@@ -2,7 +2,7 @@
 Uma parte dos códigos feitos em sala estão no diretório (pasta) exercícios acima.
 
 ## Contado do whatsapp
-Envie um email para vander.vander[at]gmail[dot]com
+Envie um email para vander.vander[at]gmail[dot]com ou solicite ao Prof. Cidão.
 
 ## Se você usa Windows.
 [VSCode + c Programming.](https://www.youtube.com/watch?v=3pfRvy_gfqY)
