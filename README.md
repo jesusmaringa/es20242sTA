@@ -22,7 +22,7 @@ A seguir, você tem acesso aos slides que forma usados em sala.
 
 [Semana 04](https://docs.google.com/presentation/d/1k_fTuWz90a-Ud8ROnHNHCSKcxp_qhYdacoE7EK1OBB8/edit?usp=sharing)
 
-[Fim da Jornada ...Aguarde...]()
+[Fim da Jornada](https://docs.google.com/presentation/d/1DplLfkA2PisXNtSytfXNXowjY20kcDZdDvxb_dZXP7A/edit#slide=id.p)
 
 ## Livro
 [C Total](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)
