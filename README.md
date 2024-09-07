@@ -6,8 +6,6 @@ Uma parte dos códigos feitos em sala estão no diretório (pasta) exercícios a
 
 Obs.: Aqueles que perderam uma ou as duas atividades devem conversar com o professor João e verificar se algo pode ser feito.
 
-## Contado do whatsapp
-Envie um email para vander.vander[at]gmail[dot]com ou solicite ao Prof. Cidão.
 
 ## Se você usa Windows.
 [VSCode + c Programming.](https://www.youtube.com/watch?v=3pfRvy_gfqY)
