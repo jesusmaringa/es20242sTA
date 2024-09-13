@@ -1,7 +1,7 @@
 # Linguagem e Técnicas de Programção
 Uma parte dos códigos feitos em sala estão no diretório (pasta) exercícios acima.
 
-# RESULTADO DAS ATIVIDADES DE SALA E LABORATÓRIO (Sugjeito a aprovação do Professor João).
+# RESULTADO DAS ATIVIDADES DE SALA E LABORATÓRIO (Sujeito à aprovação do Professor João).
 [RESUTADO](https://docs.google.com/spreadsheets/d/1ZZpurNqvpGJnwibhxbWae2Wo5DhDPclXTKostdZNY54/edit?pli=1&gid=1332890251#gid=1332890251)
 
 Obs.: Aqueles que perderam uma ou as duas atividades devem conversar com o professor João e verificar se algo pode ser feito.
